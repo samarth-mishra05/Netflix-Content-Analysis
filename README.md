@@ -51,7 +51,7 @@ This plot highlights the most common genres/categories across Netflix content.
 
 1. **Clone this repo**:
    ```bash
-   git clone https://github.com/your-username/netflix-eda-project.git
+   git clone https://github.com/samarth-mishra05/Netflix-Content-Analysis.git
    cd netflix-eda-project
 
 2. **Create virtual environment**:
