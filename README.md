@@ -38,7 +38,7 @@ This plot highlights the Country wise Content Production across Netflix content.
 
 ## 📚 Genre-wise Distribution
 This plot highlights the most common genres/categories across Netflix content.
-![Top-10 Genres](visuals/genre_distribution.png)
+![Top-10 Genres](visuals/top10_genres.png)
 
 ## 🛠️ Tools & Libraries Used
 - Python
